@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="input_movie_title"> Input Movie Title</string>
+    <string name="search"> search</string>
+    <string name="synopsis_movie"> Synopsis Movie</string>
+    <string name="rls_date"> Release Date</string>
+    <string name="synopsis"> Synopsis</string>
+    <string name="rating_film"> 1000 Ratings (9.9/10)</string>
+    <string name="rating"> Rating</string>
+    <string name="movie_title"> Movie Title</string>
+    <string name="movie_poster"> PosterMovie</string>
+    <string name="tgl_rilis">Minggu, Jul 1, 1999</string>
+</resources>
